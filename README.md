@@ -1,0 +1,1 @@
+# birth-death-and-natural-increase-using-SQL-and-Power-bI
